@@ -5,7 +5,7 @@ Distributional vectors summarize word contexts to model meaning, but ambiguous w
 
 https://drive.google.com/file/d/1Dr38AGjigYBIFnbjHcwFI6JQHo4dgBmv/view?usp=drive_link
 
--including the words and embeddings used in the model
+-including the words and embeddings used in the model as prep_data
 
 -embeddings taken from Bonami & Naranjo (2021)
 
