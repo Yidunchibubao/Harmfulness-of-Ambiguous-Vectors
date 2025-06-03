@@ -7,6 +7,6 @@ https://drive.google.com/file/d/1Dr38AGjigYBIFnbjHcwFI6JQHo4dgBmv/view?usp=drive
 
 -including the words and embeddings used in the model as prep_data
 
--embeddings taken from Bonami & Naranjo (2021)
+-embeddings taken from Bonami & Naranjo (2021) https://zenodo.org/records/5975226
 
--ambiguous&unambiguous words based on Supersense and Hypersense labels provided by Angleraud, Barque, and Candito (2025)
+-ambiguous&unambiguous words based on Supersense and Hypersense labels provided by Angleraud, Barque, and Candito (2025) https://www.ortolang.fr/market/lexicons/superwikt-fr
